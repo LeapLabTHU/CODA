@@ -1,0 +1,5 @@
+VAE_SAVE_MODEL_NAME = 'vae.pth'
+DISCRIMINATOR_SAVE_MODEL_NAME = 'discriminator.pth'
+QUANTIZER_SAVE_MODEL_NAME = 'quantizer.pth'
+VAE_EMA_SAVE_MODEL_NAME = 'vae_ema.pth'
+QUANTIZER_EMA_SAVE_MODEL_NAME = 'quantizer_ema.pth'
