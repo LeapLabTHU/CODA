@@ -65,10 +65,19 @@ bash run.sh
 See `run.sh` for detailed configs for running MAR and FLUX based models.
 
 
+## :books: Model Zoo
+
+| Model           | Link                                                         |
+| --------------- | ------------------------------------------------------------ |
+| MAR, $V=16384$  | [link](https://huggingface.co/shuidi0020/CODA/tree/main/mar_v16384) |
+| FLUX, $V=65536$ | [link](https://huggingface.co/shuidi0020/CODA/tree/main/flux_v65536) |
+
+
+
 ## :mag_right: Code Release 
 
   - [ ] Generation training code & checkpoints
-  - [ ] Tokenizer checkpoints
+  - [x] Tokenizer checkpoints
   - [x] Tokenizer training codes
 
 
